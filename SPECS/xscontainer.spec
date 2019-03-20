@@ -1,9 +1,9 @@
 Name:    xscontainer
-Version: 10.0.1
+Version: 10.0.2
 Release: 1
 Summary: XenServer Container Manager
 License: BSD
-Source0: https://code.citrite.net/rest/archive/latest/projects/xs/repos/xscontainer/archive?at=2c113374af2e8351425f0fbd7b33f4ac535b21f8&format=tar.gz#/%{name}-%{version}.tar.gz
+Source0: https://code.citrite.net/rest/archive/latest/projects/xs/repos/xscontainer/archive?at=ef2e8834577ab58a59b08b1a44757a91ff69639d&format=tar.gz#/%{name}-%{version}.tar.gz
 Source1: 80-xscontainer.preset
 BuildArch: noarch
 
